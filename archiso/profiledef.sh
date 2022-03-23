@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="archlinux-baseline"
-iso_label="ARCH_$(date +%Y%m)"
-iso_publisher="Arch Linux <https://archlinux.org>"
-iso_application="Arch Linux baseline"
+iso_name="volatileos"
+iso_label="VOLATILEOS_$(date +%Y.%m.%d)"
+iso_publisher="Volatile OS <https://volatileos.com>"
+iso_application="Volatile OS"
 iso_version="$(date +%Y.%m.%d)"
-install_dir="arch"
+install_dir="volatileos"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
 arch="x86_64"
