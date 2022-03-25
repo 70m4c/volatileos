@@ -12,7 +12,7 @@ Resources
 Copyright & License
 -------------------
 
-Copyright ©2022 Томас <70m4c@70m4c.su>.
+Copyright ©2022 Томас \<70m4c@70m4c.su\>.
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
