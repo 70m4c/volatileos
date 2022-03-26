@@ -1,10 +1,54 @@
-base
-cloud-init
-linux
-mkinitcpio
+# Hardware Support & System Basics
+edk2-shell
 mkinitcpio-archiso
-openssh
 pv
-qemu-guest-agent
+linux
+linux-firmware
+base
 syslinux
-virtualbox-guest-utils-nox
+
+# Multimedia Frameworks
+pipewire
+pipewire-alsa
+pipewire-jack
+pipewire-pulse
+pipewire-v4l2
+pipewire-x11-bell
+pipewire-zeroconf
+wireplumber
+gstreamer
+gst-libav
+gst-plugins-base
+gst-plugins-good
+gst-plugins-bad
+gst-plugins-ugly
+gst-plugin-pipewire
+
+# XFCE
+xorg-server
+xfwm4
+xfwm4-themes
+xfdesktop
+xfconf
+exo
+garcon
+tumbler
+xfce4-session
+xfce4-panel
+xfce4-appfinder
+xfce4-settings
+xfce4-power-manager
+xfce4-terminal
+thunar
+thunar-volman
+
+# Web Browsers: Firefox
+firefox
+libnotify
+
+# Build & Test Volatile OS ISOs
+archiso
+edk2-ovmf
+qemu
+qemu-guest-agent
+
