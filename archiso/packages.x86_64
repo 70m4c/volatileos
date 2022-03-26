@@ -24,6 +24,10 @@ gst-plugins-bad
 gst-plugins-ugly
 gst-plugin-pipewire
 
+# Display Manager
+lightdm
+lightdm-gtk-greeter
+
 # XFCE
 xorg-server
 xfwm4
