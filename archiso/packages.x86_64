@@ -1,11 +1,32 @@
-# Hardware Support & System Basics
+# Archiso Requirements
+syslinux
+memtest86+
 edk2-shell
 mkinitcpio-archiso
 pv
-linux
+
+# Linux
+linux-zen
+linux-zen-headers
 linux-firmware
+
+# Base System
 base
-syslinux
+base-devel
+
+# Package Management
+pacman
+pacman-contrib
+archlinux-keyring
+reflector
+
+# Networking
+networkmanager
+wireless-regdb
+
+# Printing
+system-config-printer
+cups
 
 # Multimedia Frameworks
 pipewire
@@ -24,35 +45,117 @@ gst-plugins-bad
 gst-plugins-ugly
 gst-plugin-pipewire
 
+# XDG Standards and Tools
+xdg-desktop-portal
+xdg-desktop-portal-gtk
+xdg-user-dirs
+xdg-utils
+flatpak
+
+# Bash
+bash
+bash-completion
+
+# Basic Utilities
+sudo
+which
+curl
+wget
+
+# GnuPG
+gnupg
+gtk2
+
+# OpenSSH
+openssh
+
+# Git
+git
+
+# (Neo)vi(m)
+neovim
+
+# Node
+nodejs
+npm
+
+# Ruby
+ruby
+ruby-irb
+rubygems
+ruby-rdoc
+ruby-docs
+
+# Man Pages and Texinfo
+man-db
+man-pages
+texinfo
+
 # Display Manager
 lightdm
 lightdm-gtk-greeter
-
-# XFCE
 xorg-server
-xfwm4
-xfwm4-themes
-xfdesktop
-xfconf
-exo
-garcon
-tumbler
-xfce4-session
-xfce4-panel
-xfce4-appfinder
-xfce4-settings
-xfce4-power-manager
-xfce4-terminal
-thunar
-thunar-volman
 
-# Web Browsers: Firefox
+# Cinnamon
+cinnamon
+
+# KiTTY
+kitty
+
+# Nemo
+nemo
+
+# Nemo Fileroller
+nemo-fileroller
+lrzip
+p7zip
+squashfs-tools
+unace
+unrar
+
+# VLC
+vlc
+
+# Password Management
+keepassxc
+
+# Firefox
 firefox
 libnotify
+geckodriver
+
+# Tor Browser
+torbrowser-launcher
+
+# LibreOffice
+libreoffice-still
+hyphen
+libmythes
+libpaper
+
+# GIMP
+gimp
+ghostscript
+gutenprint
+poppler-glib
+
+# Inkscape
+inkscape
+scour
+
+# Audacity
+audacity
+ffmpeg
 
 # Build & Test Volatile OS ISOs
 archiso
 edk2-ovmf
 qemu
 qemu-guest-agent
+
+# Fonts
+noto-fonts
+noto-fonts-cjk
+noto-fonts-emoji
+noto-fonts-extra
 
