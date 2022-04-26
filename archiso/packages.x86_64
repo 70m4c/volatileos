@@ -79,6 +79,21 @@ git
 # (Neo)vi(m)
 neovim
 
+# Libvirt
+libvirt
+ebtables
+dnsmasq
+dmidecode
+bridge-utils
+lvm2
+qemu
+qemu-arch-extra
+edk2-armvirt
+edk2-ovmf
+
+# Virt-Manager
+virt-manager
+
 # Node
 nodejs
 npm
