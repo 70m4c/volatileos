@@ -21,6 +21,8 @@ base-devel
 # Package Management
 pacman
 pacman-contrib
+asp
+devtools
 archlinux-keyring
 reflector
 
