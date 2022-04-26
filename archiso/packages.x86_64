@@ -94,6 +94,12 @@ edk2-ovmf
 # Virt-Manager
 virt-manager
 
+# Vagrant
+vagrant
+
+# Packer
+packer
+
 # Node
 nodejs
 npm
