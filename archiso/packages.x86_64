@@ -175,6 +175,9 @@ scour
 audacity
 ffmpeg
 
+# VSCodium
+vscodium-bin
+
 # Build & Test Volatile OS ISOs
 archiso
 edk2-ovmf
