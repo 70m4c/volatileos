@@ -10,6 +10,10 @@ linux-zen
 linux-zen-headers
 linux-firmware
 
+# Microcode
+intel-ucode
+amd-ucode
+
 # Base System
 base
 base-devel
