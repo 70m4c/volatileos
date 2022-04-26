@@ -24,6 +24,12 @@ pacman-contrib
 archlinux-keyring
 reflector
 
+# Paru
+paru-bin
+asp
+bat
+devtools
+
 # Networking
 networkmanager
 wireless-regdb
