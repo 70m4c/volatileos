@@ -119,6 +119,9 @@ vlc
 # Password Management
 keepassxc
 
+# Brave
+brave-bin
+
 # Firefox
 firefox
 libnotify
