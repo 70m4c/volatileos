@@ -194,6 +194,7 @@ ffmpeg
 
 # VSCodium
 vscodium-bin
+vscodium-bin-marketplace
 
 # Build & Test Volatile OS ISOs
 archiso
