@@ -146,6 +146,15 @@ squashfs-tools
 unace
 unrar
 
+# Shutter
+shutter
+bc
+libappindicator-gtk3
+perl-image-exiftool
+perl-lwp-protocol-https
+perl-net-oauth
+perl-path-class
+
 # VLC
 vlc
 
