@@ -6,7 +6,8 @@ Volatile OS is a Linux distribution optimized to run from volatile memory.
 Building
 --------
 
-Building Volatile OS ISO files is done using the `archiso` tool, either locally
+Building Volatile OS ISO files is done using the
+[archiso](https://gitlab.archlinux.org/archlinux/archiso) tool, either locally
 or within an OCI container.
 
 ### Build Using `archiso` Locally
@@ -27,12 +28,6 @@ The following commands will build a Volatile OS ISO file in `ISODIR`.
 $ ISODIR="/path/to/output"
 $ docker run --privileged --tty --volume ${ISODIR}:/out --rm archlinux bash -c "pacman --sync --refresh --sysupgrade --noconfirm git archiso && git clone --depth 1 https://github.com/70m4c/volatileos.git /volatileos && cp /volatileos/archiso/airootfs/etc/pacman.d/volatileos-mirrorlist /etc/pacman.d/volatileos-mirrorlist && mkarchiso -v -w /tmp -o /out /volatileos/archiso"
 ```
-
-Resources
----------
-
-* [archiso](https://gitlab.archlinux.org/archlinux/archiso) - used for building
-  ISO images.
 
 Copyright & License
 -------------------
