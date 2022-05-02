@@ -3,4 +3,5 @@ wheel:x:10:user
 autologin:x:11:user
 nopasswdlogin:x:12:user
 libvirt:x:210:user
+docker:x:210:user
 user:x:1000:

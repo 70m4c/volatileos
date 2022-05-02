@@ -110,6 +110,12 @@ vagrant
 # Packer
 packer
 
+# Docker
+docker
+docker-compose
+docker-scan
+pigz
+
 # Node
 nodejs
 npm
