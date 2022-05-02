@@ -14,6 +14,9 @@ linux-firmware
 intel-ucode
 amd-ucode
 
+# Graphics Drivers
+intel-media-driver
+
 # Base System
 base
 base-devel
@@ -60,7 +63,6 @@ gst-plugin-pipewire
 # XDG Standards and Tools
 xdg-desktop-portal
 xdg-desktop-portal-gtk
-xdg-user-dirs
 xdg-utils
 flatpak
 
@@ -191,6 +193,10 @@ scour
 # Audacity
 audacity
 ffmpeg
+
+# OBS Studio
+obs-studio-browser
+x264
 
 # VSCodium
 vscodium-bin
