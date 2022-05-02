@@ -182,6 +182,16 @@ geckodriver
 # Tor Browser
 torbrowser-launcher
 
+# Discord
+discord
+
+# Telegram
+telegram-desktop
+webkit2gtk
+
+# Slack
+slack-desktop
+
 # LibreOffice
 libreoffice-still
 hyphen
