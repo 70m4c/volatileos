@@ -203,8 +203,7 @@ audacity
 ffmpeg
 
 # OBS Studio
-obs-studio-browser
-x264
+obs-studio
 
 # VSCodium
 vscodium-bin
