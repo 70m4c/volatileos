@@ -3,6 +3,13 @@ Volatile OS
 
 Volatile OS is a Linux distribution optimized to run from volatile memory.
 
+Status
+------
+
+Volatile OS is in the
+**[pre-alpha](https://en.wikipedia.org/wiki/Software_release_life_cycle#Pre-alpha)**
+stage of development.
+
 Building
 --------
 
