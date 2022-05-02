@@ -139,6 +139,8 @@ xorg-server
 
 # Cinnamon
 cinnamon
+mint-themes
+mint-y-icons
 
 # KiTTY
 kitty
