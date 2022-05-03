@@ -119,6 +119,7 @@ pigz
 # Node
 nodejs
 npm
+yarn
 
 # Ruby
 ruby
