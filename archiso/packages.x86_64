@@ -127,6 +127,11 @@ rubygems
 ruby-rdoc
 ruby-docs
 
+# SQLite
+sqlite
+sqlite-analyzer
+sqlite-doc
+
 # Man Pages and Texinfo
 man-db
 man-pages
