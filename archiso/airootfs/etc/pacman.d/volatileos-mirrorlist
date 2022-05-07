@@ -1,1 +1,1 @@
-Server = http://mirror.volatileos.com/repo/$repo/os/$arch
+Server = http://mirror.volatileos.com/repo/$repo/$arch
