@@ -181,7 +181,7 @@ keepassxc
 brave-bin
 
 # Firefox
-firefox
+librewolf-bin
 libnotify
 geckodriver
 
