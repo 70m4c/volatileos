@@ -188,6 +188,9 @@ geckodriver
 # Tor Browser
 torbrowser-launcher
 
+# OnionShare
+onionshare
+
 # Discord
 discord
 
