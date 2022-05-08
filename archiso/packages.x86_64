@@ -232,6 +232,7 @@ qemu
 qemu-guest-agent
 
 # Fonts
+ttf-dejavu-sans-code
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
