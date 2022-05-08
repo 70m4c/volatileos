@@ -185,6 +185,9 @@ librewolf-bin
 libnotify
 geckodriver
 
+# Kleopatra
+kleopatra
+
 # Tor Browser
 torbrowser-launcher
 
