@@ -233,7 +233,7 @@ vscodium-bin
 vscodium-bin-marketplace
 
 # Fonts
-ttf-dejavu-sans-code
+ttf-dejavu
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
