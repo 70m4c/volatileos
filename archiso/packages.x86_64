@@ -218,13 +218,6 @@ torbrowser-launcher
 # OnionShare
 onionshare
 
-# Discord
-discord
-
-# Telegram
-telegram-desktop
-webkit2gtk
-
 # LibreOffice
 libreoffice-still
 hyphen
