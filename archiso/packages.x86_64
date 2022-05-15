@@ -196,6 +196,9 @@ vlc
 # Password Management
 keepassxc
 
+# Pass
+pass
+
 # Brave
 brave-bin
 
