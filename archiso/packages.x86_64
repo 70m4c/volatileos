@@ -247,6 +247,9 @@ obs-studio-tytan652
 vscodium-bin
 vscodium-bin-marketplace
 
+# Meld
+meld
+
 # Fonts
 ttf-dejavu
 noto-fonts
