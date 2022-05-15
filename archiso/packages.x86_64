@@ -35,6 +35,21 @@ asp
 bat
 devtools
 
+# GParted
+gparted
+btrfs-progs
+dosfstools
+exfatprogs
+f2fs-tools
+gpart
+jfsutils
+mtools
+nilfs-utils
+ntfs-3g
+reiserfsprogs
+udftools
+xfsprogs
+
 # Networking
 networkmanager
 wireless-regdb
