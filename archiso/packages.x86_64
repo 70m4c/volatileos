@@ -164,8 +164,10 @@ xorg-server
 
 # Cinnamon
 cinnamon
-mint-themes
-mint-y-icons
+
+# Arc Themes
+arc-gtk-theme
+arc-icon-theme
 
 # KiTTY
 kitty
