@@ -165,9 +165,9 @@ xorg-server
 # Cinnamon
 cinnamon
 
-# Arc Themes
-arc-gtk-theme
-arc-icon-theme
+# Nordic Theme
+nordic-theme
+papirus-nord
 
 # KiTTY
 kitty
