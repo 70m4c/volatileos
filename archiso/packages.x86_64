@@ -169,6 +169,9 @@ cinnamon
 nordic-theme
 papirus-nord
 
+# OpenZone Cursor Theme
+xcursor-openzone
+
 # KiTTY
 kitty
 
